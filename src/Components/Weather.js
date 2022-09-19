@@ -30,7 +30,6 @@ const Weather = () => {
 
   /* I signed up on OpenWeatherMap and obtained my own apikey code. This apikey together with the 
   state is inserted in the URL below which will retrieve our weather data. */
-  const apiKey = `a2e44f776bb10bac99a7a827df96686c`;
   const apiUrl = `https://api.openweathermap.org/data/2.5/weather?q=${state}&APPID=${apiKey}`;
 
   /* We will now fetch the weather data from the API. The useEffect hook will help us to perform this side
