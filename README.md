@@ -49,6 +49,12 @@ npm start
 
 - Lastly, open http://localhost:3000 to view and play the app in the browser.
 
+## Usage
+
+- Type the name of any city in the search field to retrieve the weather of that location.
+
+![weather](https://user-images.githubusercontent.com/105747929/196001789-66bc2c89-5ac4-46a5-b686-8fd523c61f05.png)
+
 ## Credits
 
 - [hyperionDev](https://www.hyperiondev.com)
