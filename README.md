@@ -13,6 +13,7 @@ This weather app was created using the Create React App and a weather API from O
 <li><a href="#description">Description</a></li>
 <li><a href="#table-of-contents">Table of Contents</a></li>
 <li><a href="#installation">Installation</a></li>
+<li><a href="#usage">Usage</a></li>
 <li><a href="#credits">Credits</a></li>
 </ol>
 </details>
