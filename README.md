@@ -1,7 +1,5 @@
 # Weather App
 
-## Weather App using ReactJS
-
 ## Description
 
 This weather app was created using the Create React App and a weather API from OpenWeatherMap.
